@@ -1,0 +1,12 @@
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\bin\Debug\SprBrkPractice.exe.config
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\bin\Debug\SprBrkPractice.exe
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\bin\Debug\SprBrkPractice.pdb
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\bin\Debug\SprBrkPractice.xml
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.frmSprBrkPractice.resources
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.Resources.resources
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.exe
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.xml
+C:\Users\drsen\source\repos\SprBrkPractice\SprBrkPractice\obj\Debug\SprBrkPractice.pdb
