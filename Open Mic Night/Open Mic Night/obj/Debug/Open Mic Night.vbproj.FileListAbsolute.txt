@@ -1,0 +1,12 @@
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\bin\Debug\Open Mic Night.exe.config
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\bin\Debug\Open Mic Night.exe
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\bin\Debug\Open Mic Night.pdb
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\bin\Debug\Open Mic Night.xml
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open_Mic_Night.Resources.resources
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open_Mic_Night.OpenMicNight.resources
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.exe
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.xml
+C:\Users\drsen\source\repos\Open Mic Night\Open Mic Night\obj\Debug\Open Mic Night.pdb
