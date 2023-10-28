@@ -1,0 +1,12 @@
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\bin\Debug\DeckCostCalc.exe.config
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\bin\Debug\DeckCostCalc.exe
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\bin\Debug\DeckCostCalc.pdb
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\bin\Debug\DeckCostCalc.xml
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.frmDecking.resources
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.Resources.resources
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.exe
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.xml
+C:\Users\drsen\source\repos\DeckCostCalc\DeckCostCalc\obj\Debug\DeckCostCalc.pdb
