@@ -1,0 +1,16 @@
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.exe.config
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.exe
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.pdb
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.xml
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.frmFitness.resources
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.Resources.resources
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.exe
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.xml
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.pdb
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.exe.manifest
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\bin\Debug\FitChallenge.application
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.exe.manifest
+C:\Users\drsen\source\repos\FitChallenge\FitChallenge\obj\Debug\FitChallenge.application
