@@ -1,0 +1,12 @@
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe.config
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.pdb
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.xml
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.Resources.resources
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.exe
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.xml
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.pdb
+C:\Users\drsen\source\repos\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.frmPayroll_Cal.resources
