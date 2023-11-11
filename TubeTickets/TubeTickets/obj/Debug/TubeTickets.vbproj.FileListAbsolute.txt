@@ -1,0 +1,12 @@
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\bin\Debug\TubeTickets.exe.config
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\bin\Debug\TubeTickets.exe
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\bin\Debug\TubeTickets.pdb
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\bin\Debug\TubeTickets.xml
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.vbprojAssemblyReference.cache
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.frmTubeTickets.resources
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.Resources.resources
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.vbproj.GenerateResource.cache
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.vbproj.CoreCompileInputs.cache
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.exe
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.xml
+C:\Users\drsen\source\repos\TubeTickets\TubeTickets\obj\Debug\TubeTickets.pdb
